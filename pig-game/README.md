@@ -1,6 +1,6 @@
-#PIG GAME!!
+# PIG GAME!!
 
-###Instructions to play Game:
+## Instructions to play Game:
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
