@@ -1,4 +1,4 @@
-# PIG GAME!!
+# PIG GAME!! :pig:
 
 ## Instructions to play Game:
 
@@ -9,4 +9,4 @@ If the player rolls any other number, it is added to their turn total and the pl
 If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 The first player to score 100 or more points wins.
 
-Link to the game : [Pig Game](https://yashkanodia16.github.io/the-complete-javascript-course-udemy/pig-game/)
+Link to the game : [Pig Game](https://yashkanodia16.github.io/the-complete-javascript-course-udemy/pig-game/) :pig:
