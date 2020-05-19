@@ -189,3 +189,20 @@ i {
     width: 440px;
     text-align: center;
     }
+
+    #limit-btn {
+        border-width: 0px;
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        outline: 1px solid;
+        background-color: transparent;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        display: block;
+        font: inherit;
+        font-size: 40px;
+        height: auto;
+        padding: 5px 8px 8px 7px;
+        text-align: center;
+        }

@@ -76,8 +76,7 @@ function init(){
     document.querySelector('.player-1-panel').classList.remove('active');
 }
 
-document.getElementById('limit').addEventListener('keydown', function(event){
-    if(event.code === 'Enter' || event.code === 'NumpadEnter'){
+document.getElementById('limit-btn').addEventListener('click', function(){
         score = Number(document.getElementById('limit').value);
         document.getElementById('limit').value = null;
         document.getElementById('limit').style.display = 'none';
@@ -85,11 +84,12 @@ document.getElementById('limit').addEventListener('keydown', function(event){
         document.querySelector('.btn-hold').style.display = 'block';
         document.querySelector('.btn-roll').style.display = 'block';
         document.getElementById('title').style.display = 'none';
+        document.getElementById('limit-btn').style.display = 'none';
         document.querySelectorAll('.dull').forEach(function(cls){
             cls.classList.remove('dull');
         });
     }    
-})
+)
 
 
 
